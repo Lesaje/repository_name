@@ -1,7 +1,7 @@
 '''
 This program takes data from .xls !only .xls, not .xlsx! and outputs list of students
 who didn't pass the exams (score less than 50).
-Data in .xls must look sonething like this:
+Data in .xls must look something like this:
 Student name      |     Score
 John              |      65
 Paul              |      45
